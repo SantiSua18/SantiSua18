@@ -17,7 +17,15 @@ i took this bootcamp because, i want to velop myself as a programmer and i know 
 | touch  | The touch command allows you to create any type of file|
 | mkdir  | This command will allow you to create a directory (folder) right from the CLI|
 
-
+-----------------------------------------------------------------------------------------------------------------
+ 
+ 
+ Alias commands
+ 
+ |commands| Description|
+ |--------|------------|
+ | crn    |This alias command use for crate a new folder|
+ | cl     |This alias command use for clean to the terminal|
 
 
 
